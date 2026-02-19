@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme{
+   --color-bright-red: #ff1E1E;
+   --color-dark-blue: #0A1F44;
+   --color-dark-greyish-blue: #2E3A59;
+   --color-bright-red-sup-light: #FF6B6B;
+   --color-very-pale-red: #FFE5E5;
+   --color-very-light-grey: #F2F2F2;
+}
+@import "tailwindcss";
+@import "tailwindcss";
+@import "tailwindcss";
+@import "tailwindcss";
+@import "tailwindcss";
+@import "tailwindcss";
+@import "tailwindcss";
